@@ -1,1 +1,1 @@
-"# JavaScriptWorkshop" 
+*** JavaScriptWorkshop *** 
